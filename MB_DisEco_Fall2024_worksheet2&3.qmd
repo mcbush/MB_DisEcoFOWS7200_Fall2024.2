@@ -1,0 +1,79 @@
+---
+title: "MB_DisEco_Fall2024_worksheet2&3"
+author: "Matt Bush"
+format: html
+editor: visual
+---
+
+## 09/18/2024
+
+![](Desktop/ss_table.png)
+
+**1)** Find the sample size necessary to detect a disease at or above 5% prevalence in a\
+herd of 5000 deer. The desired level of confidence is 95%.
+
+**A:** 29-59
+
+**2)** Using the hypergeometric distribution, compare the sample size requirements for the\
+following scenarios:\
+**a)** 95% confidence in detecting a disease at 1% prevalence in a large population
+
+**A:** 294\
+**b)** 99% confidence in detecting a disease at 2% prevalence in a large population
+
+**A:** 226\
+
+**3)** You sample 300 deer from a high fenced facility that has a herd of 4000. None of the\
+300 have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you\
+are 95% confident that the prevalence of exposure to EHD in this facility is
+
+**A:** \<1%.\
+
+**4)** \
+**a)** Analyze the sample data to determine prevalence of lameness in each county. Provide confidence interval for prevalence using Sterne’s method.
+
+**A:**
+
+Chambers: Prevalence: 0.267, Lower CL: 0.131, Upper CL: 0.449
+
+Lee: Prevalence: 0.200, Lower CL: 0.143, Upper CL: 0.273
+
+Russell: Prevalence: 0.031, Lower CL: 0.009, Upper CL: 0.087\
+
+**b)** Compare prevalences using Fisher’s exact test.
+
+**A:**
+
+Chambers: 26.7%
+
+Lee: 20%
+
+Russell: 3.1%
+
+Two-Sided P Value: \<0.0001
+
+**5)**
+
+**a)** Find incidence on day 1, day 2 and day 5. Write the unit for incidence.
+
+**A:**
+
+Day1: 3/57 x 100 = 5.26% incidence
+
+Day2: 4/56 x 100 = 7.14% incidence
+
+Day5: 20/40 x 100 = 50% incidence
+
+\
+**b)** What is the prevalence of PSD on day 3 and day 5?
+
+**A:**
+
+Day3: 11.66%
+
+Day 5: 33.33%
+
+\
+**c)** On which day is the prevalence same as the incidence (except the units)?
+
+Day 0\
