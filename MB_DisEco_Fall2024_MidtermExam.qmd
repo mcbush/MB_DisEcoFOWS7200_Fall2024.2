@@ -1,0 +1,92 @@
+---
+title: "MB_DisEco_Fall2024_Midterm"
+author: "Matt Bush"
+format: html
+editor: visual
+---
+
+## Disease Ecology  \|  FOWS 7200  \|  Matt Bush
+
+**Exam 1**
+
+1.  True or False:
+
+    1.  **False:** The Chagas disease is infectious, not contagious like a respiratory disease.
+
+    2.  **False:** the deer mouse is infected and infectious, but not diseased in the clinical sense.
+
+    3.  **False:** Microparasites have shorter generation times than macroparasites and do reproduce in the host.
+
+    4.  **False:** while EHD can cause significant outbreaks, it does not always. Likewise, it does not always result in high mortalities. Factors like environmental conditions, herd population density, and the specific strain of the virus play a role in determining the severity of the outbreak and mortality rate.
+
+    5.  **True:** kind of… While models are extremely helpful and can predict with some accuracy, they are not 100% reliable or exact. There are many factors in real-world host populations that are not always included in disease models which can cause unpredictable outcomes.
+
+2.   **Match**:
+
+    1.  Elk infected with meningeal worm = (2)
+
+    2.  Effective contact rate = (4)
+
+    3.  Disease caused by a virus = (5)
+
+    4.  Disease caused by protozoa = (1)
+
+    5.  Disease caused by a fungus = (6)
+
+3.   **Managing** wildlife diseases poses several challenges. As a manager, there are many ecological considerations that go into the decision making framework. Managers must evaluate and consider every angle of how their management efforts impact the dynamics of the ecosystem.  For example, chronic wasting disease (CWD) among deer populations can alter predator prey relationships and impact hunting communities.
+
+    Another challenge, closely connected to the previous example, is human-wildlife conflict. Disease can increase tensions between wildlife conservation and agriculture, transportation, and/or energy development interests. An example of this would be avian influenza threatening poultry farms, leading to culling of wild bird populations and conflict with conservationists. 
+
+    Cross-species transmission is another element that wildlife managers must take into consideration. Zoonotic diseases pose a significant issue, as pathogens can transfer from wildlife to humans. The previous decade has shown us examples like Ebola and Covid-19. Both of these highlight the need for integrated management strategies that consider human health alongside wildlife health. 
+
+4.  **Dicrocoelium dendriticum life cycle:**
+
+    1.  Snails and Ants
+
+    2.  A Grazing Ruminant
+
+    3.  Prepatent Period
+
+5.   **Prevalence and Incidence** are two key measures for describing the frequency of disease in a population. However, they differ in what they represent and how they are calculated.
+
+    Prevalence is the total number of cases (both new and existing) of a disease in a population at a specific point in time, or over a defined period. Prevalence is calculated by dividing the number of existing cases by the total population at risk during that time. Thus, prevalence gives an indication of how widespread a disease is within a population and can be useful for managers as it relates to resource allocation and planning treatment services. Prevalence is impacted by factors like disease duration and mortality rates.
+
+    Incidence is defined as measuring the number of new cases of a disease that develops in a population over a specific period. It is calculated by dividing the number of new cases by the total population at risk during that time period. Incidence reflects the risk of developing the disease. This is critical information for managers to grasp disease dynamics and inform the public. Incidence can help identify emerging outbreaks and can be influenced by factors like transmission rates and prevention efforts.
+
+    Prevalence encompasses new and existing cases, while incidence focuses solely on new cases. Prevalence can be assessed at a specific point in time or over a period of time, while incidence is generally measured over a specific timeframe. Prevalence is often used in resource allocation, whereas incidence is more useful for studying disease etiology and evaluating prevention programs. Both measures are important for understanding disease dynamics, but serve different purposes in disease ecology.
+
+6.  **Calculating Avg. Recovery Rate, Transmission Rate, and Effective Reproduction Number:**
+
+    1.  12.5% of individuals recover each day during the infectious period for Measles. The transmission rate = 1.875 transmissions per day. The Effective reproduction number in a population with 80% measles vaccination coverage = 3, meaning each infected individual is expected to infect an average of 3 other individuals.
+
+    2.  7.14% of individuals recover per day from a Rotavirus infection. The transmission rate = 1.214 transmissions per day.
+
+7.  **Toxoplasma gondii in pinniped populations:**
+
+    1.  85-90% Confidence Rate.  
+
+    2.  397 additional samples to be at a 99% confidence rate (462 samples from Olive Island total). 
+
+    3.  Seal Bay Site: 1.88% (95% confidence). Olive Island Site: 2.79% (95% confidence). Dangerous Reef Site: 7.72% (95% confidence).
+
+8.   **Deer with Fibroma management:**
+
+    1.  2018 had the highest incidence rate of Deer Fibroma: 6 new cases in a population of 170 deer = 3.53% incidence rate.
+
+    2.  2015 had the lowest prevalence of Deer Fibroma: 3 total cases in a population of 255 = 1.33% prevalence rate.
+
+9.   **Compartmental models** are mathematical frameworks used to understand the dynamics of infectious diseases within populations. Some basic assumptions include Homogeneous mixing, fixed population size, well-defined compartments, constant transition rates, and no age structure. These models help in predicting disease spread, evaluating control strategies, and understanding the dynamics of infectious diseases in populations.
+
+    A great example of a compartmental model is the SEIR model. Compartments within this model include: Susceptible(S), Exposed(E), Infected(I), and Recovered(R). This model includes an exposed stage where individuals are infected but not yet infectious. This is especially relevant for diseases with a latency period. Other examples of compartmental models include SIR, SIS, and MSEIR. 
+
+10. **2)** Infected but not diseased, and **(3)** carriers.
+
+11.  **R0 (Basic reproduction number)** is a key metric that represents the average number of secondary infections produced by one infected individual in a completely susceptible population. An R0 value helps determine the potential for an infectious disease to spread. When R0 is less than 1, infection will likely die out. When R0 = 1, the infection is stable in the population. When R0 is greater than 1, the infection has the potential to spread in the population.
+
+Scenario 1: R0 = 2
+
+Scenario 2: R0 = 2
+
+This means each infected individual is expected to spread the infection to roughly 2 other individuals in a fully susceptible population in both scenarios. As this relates to real-world utility, R0 is a critical measure for wildlife managers to understand for disease management and response. An R0 of greater than 1 implies the need for intervention to reduce transmission, such as vaccination, isolation, or culling. 
+
+12. **Approximately 2520 seals** should be vaccinated to achieve herd immunity sufficient to prevent an outbreak of PDV.
