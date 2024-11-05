@@ -1,0 +1,13 @@
+---
+title: "MB_DisEco_Fall2024_Worksheet5"
+author: "Matt Bush"
+format: html
+editor: visual
+---
+
+## Worksheet 5
+
+Marburg Virus
+
+1.  It would appear that the Marburg Virus is an Emerging Infectious Disease (EID). The reason I do not see the virus as “Spillover” is because humans are not dead-end hosts for Marburg Virus. With that said, the origin source is relatively remote and the outbreak should be easily contained. I would argue that there is low-exposure/susceptibility to Marburg Virus because the between-species transmission rate is very low due to the Host species being isolated in caves in Rwanda. Additionally, the H2 within-species rate of transmission has relatively low-exposure/susceptibility. The Marburg virus can still be transmitted within H2, therefore I would classify it as an EID. 
+2.  Because the virus is contracted through contact with H1, or through close contact with infected H2 via bodily fluid, there are plenty of good options to stop the spread. First, the contact with H1 should be eliminated by shutting down the caves to humans. Second, those who have been exposed to the virus by visiting those caves should seek immediate medical care. Upon arrival at a care facility, the exposed population should specify that they may have contracted Marburg Virus. Special care should be taken by the medical professionals to limit exposure through close contact with the patients. Practices like changing gloves, wearing PPE, using hazardous waste bins for clothes, needles, tissues, and anything else that has come in contact with the infected will significantly reduce the risk of medical professionals contracting the virus.
