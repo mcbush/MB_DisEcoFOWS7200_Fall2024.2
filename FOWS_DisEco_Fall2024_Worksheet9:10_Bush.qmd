@@ -1,0 +1,362 @@
+---
+title: "FOWS_DisEco_Fall2024_Worksheet9/10_Bush"
+author: "Matt Bush"
+format: html
+editor: visual
+---
+
+# Worksheet 1
+
+## **8/30/2024**
+
+#### Bush Quarto Doc 1
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![The environment, host, and pathogen triad is a framework used to understand disease dynamics. The environment includes factors like climate, geography, and living conditions that influence disease spread. The host is the individual or population susceptible to the disease, affected by genetics, health, and behavior. The pathogen is the microorganism causing the disease, which might be bacteria, viruses, or parasites. Delving into how these three components interact helps in devising effective strategies for disease prevention and control.](EpiTriad.png)
+
+------------------------------------------------------------------------
+
+# Worksheet 2 & 3
+
+## 09/18/2024
+
+![](Desktop/ss_table.png)
+
+**1)** Find the sample size necessary to detect a disease at or above 5% prevalence in a\
+herd of 5000 deer. The desired level of confidence is 95%.
+
+**A:** **29-59**
+
+**2)** Using the hypergeometric distribution, compare the sample size requirements for the\
+following scenarios:\
+**a)** 95% confidence in detecting a disease at 1% prevalence in a large population
+
+**A:** **294**\
+**b)** 99% confidence in detecting a disease at 2% prevalence in a large population
+
+**A:** **226**\
+
+**3)** You sample 300 deer from a high fenced facility that has a herd of 4000. None of the\
+300 have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you\
+are 95% confident that the prevalence of exposure to EHD in this facility is
+
+**A:** **\<1%.**\
+
+**4)**\
+**a)** Analyze the sample data to determine prevalence of lameness in each county. Provide confidence interval for prevalence using Sterne’s method.
+
+**A:**
+
+**Chambers: Prevalence: 0.267, Lower CL: 0.131, Upper CL: 0.449**
+
+**Lee: Prevalence: 0.200, Lower CL: 0.143, Upper CL: 0.273**
+
+**Russell: Prevalence: 0.031, Lower CL: 0.009, Upper CL: 0.087**\
+
+**b)** Compare prevalences using Fisher’s exact test.
+
+**A:**
+
+**Chambers: 26.7%**
+
+**Lee: 20%**
+
+**Russell: 3.1%**
+
+**Two-Sided P Value: \<0.0001**
+
+**5)**
+
+**a)** Find incidence on day 1, day 2 and day 5. Write the unit for incidence.
+
+**A:**
+
+**Day1: 3/57 x 100 = 5.26% incidence**
+
+**Day2: 4/56 x 100 = 7.14% incidence**
+
+**Day5: 20/40 x 100 = 50% incidence**
+
+\
+**b)** What is the prevalence of PSD on day 3 and day 5?
+
+**A:**
+
+**Day3: 11.66%**
+
+**Day 5: 33.33%**
+
+\
+**c)** On which day is the prevalence same as the incidence (except the units)?
+
+**Day 0**\
+
+------------------------------------------------------------------------
+
+# Worksheet 4
+
+### **Memo: The Role of Disease Models in Wildlife Disease Management**
+
+**To:** Dr. Belsare\
+**From:** Matt Bush\
+**Date:** 10/04/2024\
+**Subject:** The Role of Disease Models in Wildlife Disease Management
+
+#### **Introduction**
+
+Wildlife diseases pose significant threats to biodiversity, ecosystem health, and even human populations. Effective management of these diseases is critical for conservation efforts and public health. Disease models serve as valuable tools in understanding the dynamics of wildlife diseases and developing management strategies. This memo sheds light on the contributions of disease models, highlights their limitations, and suggests ways to enhance their effectiveness.
+
+#### **Contributions of Disease Models**
+
+Disease models simulate the spread and impact of diseases within wildlife populations. By integrating biological, environmental, and ecological data, these models can forecast disease outbreaks, identify potential hotspots, and project the impact of various management interventions. For example, models can help predict how changes in climate or habitat use might influence disease transmission dynamics. Models can evaluate the risk factors associated with disease spread, such as animal density, social behavior, and environmental conditions. This risk assessment is crucial for prioritizing surveillance efforts and targeting interventions, allowing wildlife managers to allocate resources more efficiently. By simulating different management scenarios—such as vaccination, habitat modification, or culling—disease models can help determine the most effective approaches for controlling disease spread. This evaluative capacity allows managers to implement evidence-based strategies, maximizing the chances of successful outcomes.
+
+#### **Limitations of Disease Models**
+
+Despite their utility, disease models are not without limitations. Many models rely on existing data, which can be sparse or of variable quality. Inaccurate or incomplete data can lead to flawed predictions, undermining the model’s credibility. For example, lack of detailed population data can hinder the accuracy of disease prevalence estimates. Wildlife ecosystems are characterized by intricate interactions among species, environmental variables, and human influences. Models often simplify these complexities, potentially overlooking critical ecological dynamics. As a result, predictions may not account for unforeseen variables, leading to unexpected outcomes in real-world scenarios. Diseases can exhibit significant temporal and spatial variation, influenced by seasonal changes, migration patterns, and local environmental conditions. Static models may struggle to accommodate these variations, necessitating regular updates and recalibrations.
+
+#### **Enhancing Model Effectiveness**
+
+To improve wildlife disease management outcomes, disease models should be used in conjunction with other tools and approaches:
+
+1.  Combining modeling efforts with robust field data collection and surveillance can enhance model accuracy. Regularly updating models with new data can improve their predictive capabilities and relevance.
+
+2.  Engaging ecologists, veterinarians, and epidemiologists can foster a more comprehensive understanding of wildlife diseases. Interdisciplinary collaboration can lead to more holistic models that better capture ecological complexities.
+
+3.  Employing an adaptive management framework allows for continuous learning and adjustment of strategies based on model predictions and real-world outcomes. This iterative process helps refine approaches over time, leading to improved management of wildlife diseases.
+
+#### **Disease models are invaluable in the management of wildlife diseases, offering insights that can lead to more effective strategies. However, their limitations necessitate careful consideration and integration with other management tools. By embracing a holistic, adaptive approach, wildlife managers can enhance their capacity to respond to disease challenges, ultimately promoting healthier wildlife populations and ecosystems.**
+
+------------------------------------------------------------------------
+
+# Worksheet 5
+
+#### Marburg Virus
+
+1.  It would appear that the Marburg Virus is an Emerging Infectious Disease (EID). The reason I do not see the virus as “Spillover” is because humans are not dead-end hosts for Marburg Virus. With that said, the origin source is relatively remote and the outbreak should be easily contained. I would argue that there is low-exposure/susceptibility to Marburg Virus because the between-species transmission rate is very low due to the Host species being isolated in caves in Rwanda. Additionally, the H2 within-species rate of transmission has relatively low-exposure/susceptibility. The Marburg virus can still be transmitted within H2, therefore I would classify it as an EID. 
+2.  Because the virus is contracted through contact with H1, or through close contact with infected H2 via bodily fluid, there are plenty of good options to stop the spread. First, the contact with H1 should be eliminated by shutting down the caves to humans. Second, those who have been exposed to the virus by visiting those caves should seek immediate medical care. Upon arrival at a care facility, the exposed population should specify that they may have contracted Marburg Virus. Special care should be taken by the medical professionals to limit exposure through close contact with the patients. Practices like changing gloves, wearing PPE, using hazardous waste bins for clothes, needles, tissues, and anything else that has come in contact with the infected will significantly reduce the risk of medical professionals contracting the virus.
+
+------------------------------------------------------------------------
+
+# Midterm Exam
+
+## 10/11/2024
+
+## Disease Ecology \| FOWS 7200 \| Matt Bush
+
+#### **Exam 1**
+
+1.  True or False:
+
+    1.  **False:** The Chagas disease is infectious, not contagious like a respiratory disease.
+
+    2.  **False:** the deer mouse is infected and infectious, but not diseased in the clinical sense.
+
+    3.  **False:** Microparasites have shorter generation times than macroparasites and do reproduce in the host.
+
+    4.  **False:** while EHD can cause significant outbreaks, it does not always. Likewise, it does not always result in high mortalities. Factors like environmental conditions, herd population density, and the specific strain of the virus play a role in determining the severity of the outbreak and mortality rate.
+
+    5.  **True:** kind of… While models are extremely helpful and can predict with some accuracy, they are not 100% reliable or exact. There are many factors in real-world host populations that are not always included in disease models which can cause unpredictable outcomes.
+
+2.  **Match**:
+
+```         
+1.  Elk infected with meningeal worm = (2)
+
+2.  Effective contact rate = (4)
+
+3.  Disease caused by a virus = (5)
+
+4.  Disease caused by protozoa = (1)
+
+5.  Disease caused by a fungus = (6)
+```
+
+3.  **Managing** wildlife diseases poses several challenges. As a manager, there are many ecological considerations that go into the decision making framework. Managers must evaluate and consider every angle of how their management efforts impact the dynamics of the ecosystem.  For example, chronic wasting disease (CWD) among deer populations can alter predator prey relationships and impact hunting communities.
+
+    Another challenge, closely connected to the previous example, is human-wildlife conflict. Disease can increase tensions between wildlife conservation and agriculture, transportation, and/or energy development interests. An example of this would be avian influenza threatening poultry farms, leading to culling of wild bird populations and conflict with conservationists. 
+
+    Cross-species transmission is another element that wildlife managers must take into consideration. Zoonotic diseases pose a significant issue, as pathogens can transfer from wildlife to humans. The previous decade has shown us examples like Ebola and Covid-19. Both of these highlight the need for integrated management strategies that consider human health alongside wildlife health.
+
+```{=html}
+<!-- -->
+```
+4.  **Dicrocoelium dendriticum life cycle:**
+
+    1.  Snails and Ants
+
+    2.  A Grazing Ruminant
+
+    3.  Prepatent Period
+
+5.  **Prevalence and Incidence** are two key measures for describing the frequency of disease in a population. However, they differ in what they represent and how they are calculated.
+
+    Prevalence is the total number of cases (both new and existing) of a disease in a population at a specific point in time, or over a defined period. Prevalence is calculated by dividing the number of existing cases by the total population at risk during that time. Thus, prevalence gives an indication of how widespread a disease is within a population and can be useful for managers as it relates to resource allocation and planning treatment services. Prevalence is impacted by factors like disease duration and mortality rates.
+
+    Incidence is defined as measuring the number of new cases of a disease that develops in a population over a specific period. It is calculated by dividing the number of new cases by the total population at risk during that time period. Incidence reflects the risk of developing the disease. This is critical information for managers to grasp disease dynamics and inform the public. Incidence can help identify emerging outbreaks and can be influenced by factors like transmission rates and prevention efforts.
+
+    Prevalence encompasses new and existing cases, while incidence focuses solely on new cases. Prevalence can be assessed at a specific point in time or over a period of time, while incidence is generally measured over a specific timeframe. Prevalence is often used in resource allocation, whereas incidence is more useful for studying disease etiology and evaluating prevention programs. Both measures are important for understanding disease dynamics, but serve different purposes in disease ecology.
+
+```{=html}
+<!-- -->
+```
+6.  **Calculating Avg. Recovery Rate, Transmission Rate, and Effective Reproduction Number:**
+
+    1.  12.5% of individuals recover each day during the infectious period for Measles. The transmission rate = 1.875 transmissions per day. The Effective reproduction number in a population with 80% measles vaccination coverage = 3, meaning each infected individual is expected to infect an average of 3 other individuals.
+
+    2.  7.14% of individuals recover per day from a Rotavirus infection. The transmission rate = 1.214 transmissions per day.
+
+7.  **Toxoplasma gondii in pinniped populations:**
+
+    1.  85-90% Confidence Rate.  
+
+    2.  397 additional samples to be at a 99% confidence rate (462 samples from Olive Island total). 
+
+    3.  Seal Bay Site: 1.88% (95% confidence). Olive Island Site: 2.79% (95% confidence). Dangerous Reef Site: 7.72% (95% confidence).
+
+8.   **Deer with Fibroma management:**
+
+    1.  2018 had the highest incidence rate of Deer Fibroma: 6 new cases in a population of 170 deer = 3.53% incidence rate.
+
+    2.  2015 had the lowest prevalence of Deer Fibroma: 3 total cases in a population of 255 = 1.33% prevalence rate.
+
+9.  **Compartmental models** are mathematical frameworks used to understand the dynamics of infectious diseases within populations. Some basic assumptions include Homogeneous mixing, fixed population size, well-defined compartments, constant transition rates, and no age structure. These models help in predicting disease spread, evaluating control strategies, and understanding the dynamics of infectious diseases in populations. A great example of a compartmental model is the SEIR model. Compartments within this model include: Susceptible(S), Exposed(E), Infected(I), and Recovered(R). This model includes an exposed stage where individuals are infected but not yet infectious. This is especially relevant for diseases with a latency period. Other examples of compartmental models include SIR, SIS, and MSEIR.
+
+```{=html}
+<!-- -->
+```
+10. **2)** Infected but not diseased, and **(3)** carriers.
+
+11. **R0 (Basic reproduction number)** is a key metric that represents the average number of secondary infections produced by one infected individual in a completely susceptible population. An R0 value helps determine the potential for an infectious disease to spread. When R0 is less than 1, infection will likely die out. When R0 = 1, the infection is stable in the population. When R0 is greater than 1, the infection has the potential to spread in the population.
+
+Scenario 1: R0 = 2
+
+Scenario 2: R0 = 2
+
+This means each infected individual is expected to spread the infection to roughly 2 other individuals in a fully susceptible population in both scenarios. As this relates to real-world utility, R0 is a critical measure for wildlife managers to understand for disease management and response. An R0 of greater than 1 implies the need for intervention to reduce transmission, such as vaccination, isolation, or culling. 
+
+12. **Approximately 2520 seals** should be vaccinated to achieve herd immunity sufficient to prevent an outbreak of PDV.
+
+------------------------------------------------------------------------
+
+# Worksheet 6, 7, & 8
+
+Insufficient Data, unable to render data through QP web software.
+
+------------------------------------------------------------------------
+
+# Term Project
+
+## **Lassa Fever Memo**
+
+**To:** Iowa Department of Public Health\
+**From:** Disease Ecologist, Matt Bush\
+**Date:** 12/04/2024\
+**Subject:** Lassa Fever: Disease Ecology, Risks, and Public Health Recommendations
+
+**Overview:**
+
+Lassa Fever is a zoonotic viral disease caused by the Lassa virus, a member of the Arenaviridae family. Endemic to parts of West Africa, the disease has significant public health implications due to its potential for severe outcomes, including hemorrhagic fever, and its ability to spread both zoonotically and person-to-person.
+
+**Key Information:**
+
+1.  **Causative Agent and Reservoir:** The Lassa virus is maintained in nature through its primary reservoir, the Natal multimammate rat (Mastomys natalensis). These rodents shed the virus in urine and feces, facilitating zoonotic spillover through contaminated food, surfaces, or inhalation of aerosolized particles (Scripps Research, 2022) (Stanford University, n.d.).
+
+2.  **Transmission Pathways:**
+
+    -   Zoonotic transmission through contact with contaminated rodent excreta or consumption of contaminated food. (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023)
+
+    -   Person-to-person transmission via exposure to infected bodily fluids, especially in healthcare settings without adequate infection control measures. (Killoran & Leedom Larson, 2016)
+
+3.  **Geographic Distribution:** Endemic in West Africa, including Nigeria, Sierra Leone, Liberia, and Guinea, with sporadic cases in non-endemic regions linked to travel (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+4.  **Clinical Presentation:** Incubation ranges from 7-21 days. Symptoms vary from mild (fever, weakness) to severe (hemorrhage, multi-organ failure). Case fatality rates are high in severe cases (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+### **Disease Ecology Framework:**
+
+Understanding Lassa Fever through a disease ecology lens provides insights into how it may emerge and persist outside endemic regions.
+
+1.  **Host-Pathogen Interactions:\
+    **The Lassa virus exhibits a stable relationship with its reservoir host, Mastomys natalensis, where infection is typically asymptomatic, ensuring viral persistence (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Stanford University, n.d.).
+
+2.  **Spillover Dynamics:\
+    **The introduction of Lassa Fever into Iowa likely resulted from a spillover event facilitated by international travel. Spillover risk increases with global connectivity and ecological disruption (Killoran & Leedom Larson, 2016) (Scripps Research, 2022).
+
+3.  **Reservoir Species Role:\
+    **Although Mastomys natalensis is not native to Iowa, analogous rodent species could hypothetically act as secondary reservoirs if exposed to the virus. Vigilance in wildlife surveillance is crucial to identify potential adaptations (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Stanford University, n.d.).
+
+4.  **Non-Endemic Persistence Risk:\
+    **Without the natural reservoir, sustained transmission in Iowa is unlikely. However, secondary cases via person-to-person transmission, particularly in healthcare settings, pose a containment challenge.
+
+### **Actionable Recommendations**
+
+Given Iowa’s first confirmed death from Lassa Fever, rapid and strategic public health measures are essential to contain the disease and mitigate future risks.
+
+#### **1. Containment and Surveillance**
+
+-   **Enhanced Surveillance:** Implement mandatory reporting for suspected cases and establish a statewide database for tracking febrile illnesses with unknown etiology (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+-   **Case Management:** Isolate confirmed cases in specialized facilities and ensure immediate contact tracing to monitor potential secondary infections (Killoran & Leedom Larson, 2016) (Scripps Research, 2022).
+
+#### **2. Healthcare Provider Education**
+
+-   **Training Programs:** Conduct training on recognizing and managing viral hemorrhagic fevers, emphasizing Lassa Fever's clinical presentation and transmission dynamics (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+-   **Infection Control:** Reinforce use of personal protective equipment (PPE) and strict hygiene protocols, especially in emergency rooms and infectious disease wards (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023).
+
+**3. Preparedness Measures**
+
+-   **Diagnostic Capacity:** Equip laboratories with PCR-based diagnostic tools to enable rapid confirmation of Lassa virus infections (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+-   **Treatment Readiness:** Stockpile antiviral drugs like Ribavirin and provide healthcare facilities with necessary equipment for supportive care (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+#### **4. Public Awareness and Education**
+
+-   **Risk Communication:** Inform the public about symptoms and transmission risks through multilingual campaigns. Stress the importance of seeking medical care if symptoms develop after travel to endemic regions (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023).
+
+-   **Rodent Control Programs:** Partner with community organizations to reduce rodent populations through environmental sanitation and safe food storage practices (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022) .
+
+### **Conclusion**
+
+The confirmed Lassa Fever death in Iowa highlights the importance of a proactive, multifaceted response rooted in disease ecology principles. While the immediate risk of sustained outbreaks in Iowa is low, targeted measures in surveillance, healthcare preparedness, and public education are vital to preventing secondary cases and ensuring public safety.
+
+By integrating ecological insights with public health strategies, Iowa can enhance its capacity to respond effectively to Lassa Fever and other emerging zoonotic diseases.
+
+For further discussion or implementation of these recommendations, I am available to assist with program development and stakeholder engagement.
+
+**Works Cited:**
+
+Center for Infectious Disease Research and Policy (CIDRAP). (2023). Lassa fever: Epidemiology, transmission, and control strategies. Retrieved from <https://www.cidrap.umn.edu>
+
+Killoran KE, Leedom Larson K. Lassa virus. Swine Health Information Center and Center for Food Security and Public Health, 2016. <http://www.cfsph.iastate.edu/pdf/shic-factsheet-lassa-virus.>  
+
+Scripps Research. (2022, September 27). Lassa virus endemic area may expand dramatically in coming decades. Scripps Research Institute. Retrieved from <https://www.scripps.edu>
+
+Stanford University. (n.d.). Lassa virus. Stanford University. Retrieved from <https://virus.stanford.edu/arena/lassa.htm> 
+
+------------------------------------------------------------------------
+
+# Thank you!
+
+#### This has been a great semester and I have enjoyed your learning from your expertise on Disease Ecology. I have learned so much about different types of diseases and their interactions with hosts, as well as useful tools and software for quantifying outbreaks and pandemics. The skills and wisdom gained from this class will be very helpful to me as I pursue a career in wildlife management and ecology. Thanks again. 
+
+#### Sincerely, 
+
+#### *Matt Bush*  
+
+#### 
