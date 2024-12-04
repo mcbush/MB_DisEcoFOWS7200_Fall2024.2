@@ -1,0 +1,98 @@
+---
+title: "DisEco_Fall2024_TermProject_Bush"
+author: "M Bush"
+format: html
+editor: visual
+---
+
+## **Lassa Fever Memo**
+
+**To:** Iowa Department of Public Health\
+**From:** Disease Ecologist, Matt Bush\
+**Date:** 12/04/2024\
+**Subject:** Lassa Fever: Disease Ecology, Risks, and Public Health Recommendations
+
+**Overview:**
+
+Lassa Fever is a zoonotic viral disease caused by the Lassa virus, a member of the Arenaviridae family. Endemic to parts of West Africa, the disease has significant public health implications due to its potential for severe outcomes, including hemorrhagic fever, and its ability to spread both zoonotically and person-to-person.
+
+**Key Information:**
+
+1.  **Causative Agent and Reservoir:** The Lassa virus is maintained in nature through its primary reservoir, the Natal multimammate rat (Mastomys natalensis). These rodents shed the virus in urine and feces, facilitating zoonotic spillover through contaminated food, surfaces, or inhalation of aerosolized particles (Scripps Research, 2022) (Stanford University, n.d.).
+
+2.  **Transmission Pathways:**
+
+    -   Zoonotic transmission through contact with contaminated rodent excreta or consumption of contaminated food. (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023)
+
+    -   Person-to-person transmission via exposure to infected bodily fluids, especially in healthcare settings without adequate infection control measures. (Killoran & Leedom Larson, 2016)
+
+3.  **Geographic Distribution:** Endemic in West Africa, including Nigeria, Sierra Leone, Liberia, and Guinea, with sporadic cases in non-endemic regions linked to travel (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+4.  **Clinical Presentation:** Incubation ranges from 7-21 days. Symptoms vary from mild (fever, weakness) to severe (hemorrhage, multi-organ failure). Case fatality rates are high in severe cases (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+### **Disease Ecology Framework:**
+
+Understanding Lassa Fever through a disease ecology lens provides insights into how it may emerge and persist outside endemic regions.
+
+1.  **Host-Pathogen Interactions:\
+    **The Lassa virus exhibits a stable relationship with its reservoir host, Mastomys natalensis, where infection is typically asymptomatic, ensuring viral persistence (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Stanford University, n.d.).
+
+2.  **Spillover Dynamics:\
+    **The introduction of Lassa Fever into Iowa likely resulted from a spillover event facilitated by international travel. Spillover risk increases with global connectivity and ecological disruption (Killoran & Leedom Larson, 2016) (Scripps Research, 2022).
+
+3.  **Reservoir Species Role:\
+    **Although Mastomys natalensis is not native to Iowa, analogous rodent species could hypothetically act as secondary reservoirs if exposed to the virus. Vigilance in wildlife surveillance is crucial to identify potential adaptations (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Stanford University, n.d.).
+
+4.  **Non-Endemic Persistence Risk:\
+    **Without the natural reservoir, sustained transmission in Iowa is unlikely. However, secondary cases via person-to-person transmission, particularly in healthcare settings, pose a containment challenge.
+
+### **Actionable Recommendations**
+
+Given Iowa’s first confirmed death from Lassa Fever, rapid and strategic public health measures are essential to contain the disease and mitigate future risks.
+
+#### **1. Containment and Surveillance**
+
+-   **Enhanced Surveillance:** Implement mandatory reporting for suspected cases and establish a statewide database for tracking febrile illnesses with unknown etiology (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+-   **Case Management:** Isolate confirmed cases in specialized facilities and ensure immediate contact tracing to monitor potential secondary infections (Killoran & Leedom Larson, 2016) (Scripps Research, 2022).
+
+#### **2. Healthcare Provider Education**
+
+-   **Training Programs:** Conduct training on recognizing and managing viral hemorrhagic fevers, emphasizing Lassa Fever's clinical presentation and transmission dynamics (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+-   **Infection Control:** Reinforce use of personal protective equipment (PPE) and strict hygiene protocols, especially in emergency rooms and infectious disease wards (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023).
+
+**3. Preparedness Measures**
+
+-   **Diagnostic Capacity:** Equip laboratories with PCR-based diagnostic tools to enable rapid confirmation of Lassa virus infections (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+-   **Treatment Readiness:** Stockpile antiviral drugs like Ribavirin and provide healthcare facilities with necessary equipment for supportive care (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022).
+
+#### **4. Public Awareness and Education**
+
+-   **Risk Communication:** Inform the public about symptoms and transmission risks through multilingual campaigns. Stress the importance of seeking medical care if symptoms develop after travel to endemic regions (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023).
+
+-   **Rodent Control Programs:** Partner with community organizations to reduce rodent populations through environmental sanitation and safe food storage practices (Center for Infectious Disease Research and Policy \[CIDRAP\], 2023) (Scripps Research, 2022) .
+
+### **Conclusion**
+
+The confirmed Lassa Fever death in Iowa highlights the importance of a proactive, multifaceted response rooted in disease ecology principles. While the immediate risk of sustained outbreaks in Iowa is low, targeted measures in surveillance, healthcare preparedness, and public education are vital to preventing secondary cases and ensuring public safety.
+
+By integrating ecological insights with public health strategies, Iowa can enhance its capacity to respond effectively to Lassa Fever and other emerging zoonotic diseases.
+
+For further discussion or implementation of these recommendations, I am available to assist with program development and stakeholder engagement.
+
+------------------------------------------------------------------------
+
+**Works Cited:**
+
+Center for Infectious Disease Research and Policy (CIDRAP). (2023). Lassa fever: Epidemiology, transmission, and control strategies. Retrieved from https://www.cidrap.umn.edu
+
+Killoran KE, Leedom Larson K. Lassa virus. Swine Health Information Center and Center for Food Security and Public Health, 2016. http://www.cfsph.iastate.edu/pdf/shic-factsheet-lassa-virus.  
+
+Scripps Research. (2022, September 27). Lassa virus endemic area may expand dramatically in coming decades. Scripps Research Institute. Retrieved from https://www.scripps.edu
+
+Stanford University. (n.d.). Lassa virus. Stanford University. Retrieved from https://virus.stanford.edu/arena/lassa.htm 
+
+\
+\
