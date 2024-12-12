@@ -1,0 +1,224 @@
+---
+title: "MB_FOWS_DisEco_Fall2024_FinalExam"
+author: "Matt Bush"
+format: html
+editor: visual
+---
+
+## FOWS Disease Ecology \| Fall 2024 \| Final Exam
+
+Matt Bush \| 12/11/2024
+
+1.  **True or False:**
+
+    -   A\) True. 
+
+    -   B\) False. Hantavirus Pulmonary Syndrome is a viral disease. It is transmitted to humans through inhalation of air particles from urine, droppings, or saliva of infected rodents.
+
+    -   C\) False. The eggs of raccoon roundworm are not immediately infectious to humans upon excretion. They require a development period of 2-4 weeks to become infectious. 
+
+    -   D\) False. The questing larvae of black-legged ticks typically cannot transmit Borrelia burgdorferi, which causes lyme disease, to humans. Larvae hatch uninfected and acquire B. burgdorferi only after feeding on infected hosts. Thus, questing larvae should not yet carry the bacteria unless they have previously fed on an infected host. 
+
+    -   E\) True. 
+
+------------------------------------------------------------------------
+
+2.   **Community-based interventions to prevent dracunculiasis (Guinea worm disease)**
+
+    -   These interventions focus on disrupting the life cycle of the causative parasite, Dracunculus medinensis, and eliminating the conditions that facilitate its transmission. These interventions include the following:
+
+        -   Safe Water Provision
+
+            -   Ensure access to safe drinking water, such as by providing clean water from protected wells or distributing water filters to households. Guinea worm larvae are released into water when infected individuals with emerging adult worms enter water sources. People contract the disease by drinking water containing infected copepods (water fleas) harboring the larvae. Safe water eliminates this primary transmission route.
+
+        -   Water Filtration
+
+            -   Use fine mesh filters (e.g., nylon or cloth) for drinking water to remove copepods. These filters physically trap the copepods carrying Guinea worm larvae, preventing their ingestion. This intervention directly targets the life stage of the parasite present in drinking water.
+
+        -   Larvicide Application
+
+            -   Apply larvicides, such as temephos, to water sources to kill copepods. Larvicides reduce the population of copepods that can host Guinea worm larvae, thereby breaking the life cycle of the parasite in water bodies.
+
+        -   Preventing Contamination of Water Sources
+
+            -   Educate and encourage individuals with emerging worms to avoid entering water sources. Adult female Guinea worms release larvae when in contact with water. Preventing infected individuals from contaminating water sources disrupts the transmission cycle.
+
+        -   Health Education and Behavior Change
+
+            -   Conduct community education campaigns to raise awareness about the disease, its transmission, and prevention methods.  Knowledge about avoiding contaminated water, using filters, and reporting cases helps communities collectively act to prevent transmission.
+
+        -   Promote Boiling Water
+
+            -   Encourage boiling drinking water in areas where other interventions are not practical. Boiling water effectively kills copepods and destroys larvae, preventing ingestion of the parasite.
+
+    -   By addressing these critical transmission stages, the interventions collectively aim to break the cycle and ultimately eliminate Guinea worm disease.
+
+------------------------------------------------------------------------
+
+3.  **Match:**
+
+    -   A - 4. West Nile virus
+
+    -   B - 7. Humans
+
+    -   C - 5. Bacterial disease
+
+    -   D - 1. Powassan encephalitis
+
+    -   E - 6. American chestnut blight
+
+    -   F - 2. Lyme disease
+
+------------------------------------------------------------------------
+
+4.  **Life Cycle of the Black-Legged Tick**
+
+    -   A\) [Adult]{.underline} and [Nymph]{.underline}
+
+    -   B\) [Mice/small rodents]{.underline}, and [white-tailed deer]{.underline}
+
+    -   C\) [Late Spring/Summer]{.underline}, and [Fall]{.underline}
+
+    -   D\) [White-footed mice]{.underline} and [white-tailed deer]{.underline}
+
+------------------------------------------------------------------------
+
+5.  **Chronic Wasting Disease**
+
+    -   Asymptomatic Spread
+
+        -   Infected animals can transmit the disease for months to years prior to showing clinical symptoms. This long incubation and silent transmission makes early detection and containment challenging.
+
+    -   Limited Diagnostic Tools
+
+        -   Currently, the only reliable testing for CWD requires post-mortem examination of brainstem or lymph tissue. There are no effective live-animal tests for wild populations. 
+
+    -   Lack of Treatment/Vaccine
+
+        -   Additionally, there is no cure or vaccination for CWD, so management strategies are limited to monitoring and controlling animal movement.
+
+    -   Human Dimensions and Cross-Border Spread
+
+        -   An obvious problem for managers seeking to contain the spread of CWD is hunters transporting infected hosts across containment zones. Hunters, landowners, and other stakeholders often resist disease management actions like herd reduction, bait bans, mandatory testing, and more which can hinder disease control efforts.
+
+------------------------------------------------------------------------
+
+6.  **Short Answers:**
+
+    -   A\) Rabies Virus is an excellent example of “all infected hosts are diseased.” Once symptoms appear, rabies is almost always fatal in mammals, including humans. Every infected host that progresses to the symptomatic stage exhibits clinical disease (e.g., aggression, paralysis). This “all infected hosts are diseased,” relationship often occurs in infections with high virulence, where the pathogen's effects on the host leads to rapid and severe disease. 
+
+    -   B\) With an R0 of 2.5, P = 0.6. To prevent a future outbreak of PDV, 60% of the Dutch harbor seal population should be vaccinated. Vaccinating 60% of the population should lead to herd immunity assuming the vaccine is 100% effective.
+
+------------------------------------------------------------------------
+
+7.  **M. leprae in Armadillos:**
+
+    -   A\) Incidence = cases per 100 individuals per month
+
+        -   January 2023: 3
+
+        -   March 2023: 7.53
+
+        -   May 2023: 4.65
+
+    -   B\) Prevalence in April 2023: 14%
+
+------------------------------------------------------------------------
+
+8.   **My Comments on Georgia's CWD Surveillance Approach:**
+
+    -   The Georgia Department of Natural Resources (DNR) executed a robust surveillance strategy by testing 1,351 samples from hunter-harvested deer for Chronic Wasting Disease (CWD) in 2022. This approach demonstrates a proactive effort to monitor for CWD within the state's white-tailed deer population of approximately 1 million. The conclusion that CWD prevalence is below 0.2% is based on the results of the sampled population and the use of the hypergeometric distribution for statistical inference.
+
+    -   Strengths: 
+
+        -   Proactive Sampling: Sampling hunter-harvested deer is an efficient method because it provides access to a large number of specimens without additional wildlife handling or stress.
+
+        -   Statistical Rigor: Using a hypergeometric distribution allows the DNR to make statistically supported inferences about the prevalence of CWD in the broader population based on the sample data.
+
+        -   Setting a Prevalence Threshold: By determining that CWD is not present above 0.2%, Georgia DNR establishes a scientifically defensible threshold that guides further management and monitoring.
+
+    -   Downside of Using Hypergeometric Distribution in Wildlife Disease Surveillance
+
+        -   The hypergeometric distribution is a statistical method used to estimate disease prevalence in a population based on sampling, assuming: (1) a finite population, (2) a specific number of "hits" (diseased individuals) in that population, and (3) Random sampling without replacement. 
+
+        -   While useful, this method has limitations in wildlife disease surveillance:
+
+            -   Assumes a Closed Population: The hypergeometric distribution assumes a fixed population size and structure. However, wildlife populations like white-tailed deer are dynamic, with births, deaths, and migrations potentially altering disease dynamics. These changes can affect the probability of detecting disease if new individuals carrying CWD enter or leave the population.
+
+            -   Sampling Bias: Hunter-harvested deer may not represent the entire population. If the sampled deer are not randomly distributed, the results may not accurately reflect the true prevalence across the state. 
+
+            -   Assumes Perfect Test Accuracy: Surveillance depends on the sensitivity (ability to detect true hits) and specificity (ability to exclude false positives) of diagnostic tests. If tests miss infections or produce false negatives, the estimate of prevalence will be incorrect.
+
+            -   Environmental Cashes: Hypergeometric models do not account for persistence of the disease in the environment. Even if CWD is undetected in sampled deer, environmental contamination could maintain transmission potential, especially in areas with past infections or migration from infected populations. 
+
+    -   Recommendations for Improved Surveillance:
+
+        -   Incorporating Environmental Sampling: Test environmental reservoirs (e.g., soil or water) for prions to complement deer testing and detect potential environmental persistence.
+
+        -   Longitudinal Studies: Conduct regular, ongoing surveillance rather than relying solely on annual snapshots to better track trends over time.
+
+    -   Final Thoughts 
+
+        -   Georgia DNR’s use of hunter-harvested deer and hypergeometric distribution provides a solid foundation for assessing CWD prevalence, but this method has limitations. Incorporating additional approaches to account for population dynamics, environmental reservoirs, and sampling biases would strengthen their surveillance program and ensure early detection of potential CWD outbreaks.
+
+------------------------------------------------------------------------
+
+9.  **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf6EfQd11hdSHK67p9ih0TI6kjwF7dNjM12P0WPepbwWPsKttU2D9QOZ28iEnktWSUfdvtiF5NEOISqKzOrSlwXsx7QVxXVFyNxiDVW9m2M89zfy3gEK18pTVv0Dd9wcdy-QGB1kQ?key=2ACuJTBTc7-0wyLtdjPC9ZPH)**
+
+------------------------------------------------------------------------
+
+10. **Anisakis simplex**
+
+    -   A\) Definitive Host: Dolphins
+
+    -   B\) Dead-End Host: Humans
+
+    -   C\) Paratenic Host: Fish and Cephalopods
+
+    -   D\) Intermediate Host: Crustaceans
+
+------------------------------------------------------------------------
+
+11.  **Brucellosis and CWD in the Greater Yellowstone Ecosystem**
+
+    -   The Greater Yellowstone Ecosystem (GYE) is home to diverse wildlife populations, including species like elk, deer, and bison, which are hosts for both Chronic Wasting Disease (CWD) and Brucellosis. The interaction between these two diseases has significant ecological, epidemiological, and management implications for the region.
+
+        -   Ecological Consequences:
+
+            -   Impact on Wildlife Populations:
+
+                -   CWD primarily affects cervids (elk, mule deer, white-tailed deer), leading to neurological degeneration, reduced survival, and ultimately death. As CWD spreads, it may contribute to a decline in cervid populations, especially in areas with high infection rates.
+
+                -   Brucellosis, caused by Brucella abortus, affects bison and elk, leading to reproductive failure (abortions) and decreased birth rates. While it may not directly cause mortality in adults, it weakens population health over time, especially if it results in reduced calf survival.
+
+                -   The dual presence of both diseases can create compounded effects on wildlife populations. Infected individuals may experience weakened immunity, making them more susceptible to co-infections or secondary infections. This could lead to increased mortality rates, especially in vulnerable groups such as young, old, or already sick animals.
+
+        -   Epidemiological Consequences:
+
+            -   Co-infection and Disease Dynamics: CWD and brucellosis are spread through different mechanisms, but their coexistence in wildlife populations could influence the transmission dynamics of each disease.
+
+                -   CWD transmission: Mainly occurs through contact with infected bodily fluids, including saliva, urine, and feces, as well as through contaminated environments (e.g., soil, carcasses).
+
+                -   Brucellosis transmission: Primarily occurs through direct contact with infected reproductive tissues, such as during birthing, or through consumption of infected placental tissues.
+
+                -   Co-infection could enhance transmission of both diseases if infected individuals shed both pathogens in areas frequented by other wildlife. For instance, the presence of brucellosis could lead to an increased risk of CWD transmission in birthing areas, where elk and bison congregate, potentially facilitating both diseases' spread.
+
+            -   Increased Mortality and Reduced Fitness:
+
+                -   Co-infected animals may suffer from compromised immune systems, making them more susceptible to other infections, predators, and environmental stressors. Infected individuals may also have reduced reproductive success, leading to a lower population growth rate.
+
+                -   Increased mortality due to co-infection could contribute to a decline in biodiversity and disrupt the balance of predator-prey relationships in the GYE.
+
+        -   Management Consequences:
+
+            -   Complicated Disease Control Efforts:
+
+                -   Brucellosis and CWD each require different management strategies, and their coexistence complicates control efforts: Brucellosis management includes culling infected individuals, vaccination programs, and managing wildlife to reduce contact with livestock, while CWD management focuses on reducing transmission through population control (e.g., culling infected animals) and monitoring to detect new outbreaks. The common denominator is culling; if both diseases are present in a population, targeted culling could be challenging. There are concerns about culling large numbers of animals, which could further disrupt ecosystems and face opposition from conservationists and the public.
+
+            -   Public education and awareness:
+
+                -   Educating hunters and the public about the risks of consuming infected wildlife and the importance of proper handling and reporting could help reduce human and animal exposure to both diseases.
+
+The interaction between Chronic Wasting Disease and brucellosis in the Greater Yellowstone Ecosystem presents complex ecological, epidemiological, and management challenges. The presence of both diseases in the region could lead to increased mortality, population declines, and disease transmission between wildlife species, complicating management efforts. An integrated approach that combines population management and research on the interaction between the two diseases is critical for the long-term health of wildlife populations and the broader ecosystem in the GYE.
+
+\
